@@ -1,4 +1,4 @@
-# ReportHub :- A new portal website.
+# ReportHub :- A news portal website.
 
 Made using features like:-
 HTML
